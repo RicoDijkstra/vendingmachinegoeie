@@ -3,7 +3,7 @@
 *Hier staaan alle vragen/antwoorden van mijn vendingmachine*
 -----------------------------------------------------
 
-**Wij hebben broeken in de aanbieding wil je er willen?**
+**Wij hebben broeken in de aanbieding zou je er een willen?**
 
 **antwoord 1: Ja of nee**
 
